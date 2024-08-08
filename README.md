@@ -1,18 +1,4 @@
-# PyTorch-Sentiment.Analysis
-Proyecto de procesamiento de lenguaje natural con PyTorch, centrado en análisis de estados mentales a partir de datos etiquetados.
-
-## Descripción del Dataset
-Este conjunto de datos es una colección curada de estados mentales etiquetados a partir de declaraciones de múltiples fuentes. Incluye datos de diversas plataformas como Reddit y Twitter, limpiados y organizados para ser utilizados en el desarrollo de chatbots y análisis de sentimientos.
-
-El dataset contiene declaraciones etiquetadas con uno de los siguientes estados mentales:
-
-- Normal
-- Depression
-- Suicidal
-- Anxiety
-- Stress
-- Bi-Polar
-- Personality Disorder
+# Email Spam or Not (Classification)📭
 
 ## Metodología
 
